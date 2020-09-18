@@ -15,3 +15,4 @@
 - Learn how to use the new Disclosure View in SwiftUI 2.0 
 - How to display views dynamically in a List View with a loop
 
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits%20-%20iPhone%201.png" alt="HTML5 Icon" width="276" height="598">
