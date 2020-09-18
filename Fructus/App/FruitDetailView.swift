@@ -20,10 +20,7 @@ struct FruitDetailView: View {
             ScrollView(.vertical, showsIndicators: false) {
                 VStack(alignment: .center, spacing: 20) {
                     
-//                    Image(fruit.image)
-//                        .resizable()
-//                        .frame(width: 100, height: 100, alignment: .center)
-//                        .cornerRadius(20)
+                    FruitHeaderView(fruit: fruit)
                     
                     VStack(alignment: .leading, spacing: 20) {
                         
@@ -47,7 +44,10 @@ struct FruitDetailView: View {
                     .padding(.horizontal, 20)
                     .frame(maxWidth: 640, alignment: .center)
                 }
+                .navigationBarTitle(fruit.title, displayMode: .inline)
+                .navigationBarHidden(true)
             }
+            .edgesIgnoringSafeArea(.top)
         }
     }
 }
