@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AF454C0E2515A4F500165E98 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF454C0D2515A4F500165E98 /* SettingsLabelView.swift */; };
 		AF8BB7F525130288000A1CBF /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8BB7F425130288000A1CBF /* OnboardingView.swift */; };
 		AF8BB7FE2514EF66000A1CBF /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8BB7FD2514EF66000A1CBF /* FruitModel.swift */; };
 		AF8BB8072514F08C000A1CBF /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8BB8062514F08C000A1CBF /* FruitData.swift */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AF454C0D2515A4F500165E98 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
 		AF8BB7F425130288000A1CBF /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		AF8BB7FD2514EF66000A1CBF /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		AF8BB8062514F08C000A1CBF /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				AF8BB81B251551F9000A1CBF /* FruitHeaderView.swift */,
 				AF8BB8202515553E000A1CBF /* SourceLinkView.swift */,
 				AF92BA8B25156A4C00FBDE60 /* FruitNutrientsView.swift */,
+				AF454C0D2515A4F500165E98 /* SettingsLabelView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				AFC2653C251189C800692C1D /* ContentView.swift in Sources */,
 				AF8BB81C251551F9000A1CBF /* FruitHeaderView.swift in Sources */,
 				AF8BB7F525130288000A1CBF /* OnboardingView.swift in Sources */,
+				AF454C0E2515A4F500165E98 /* SettingsLabelView.swift in Sources */,
 				AF8BB7FE2514EF66000A1CBF /* FruitModel.swift in Sources */,
 				AFC2653A251189C800692C1D /* FructusApp.swift in Sources */,
 				AF92BA972515893B00FBDE60 /* SettingsView.swift in Sources */,
