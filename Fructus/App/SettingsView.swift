@@ -11,8 +11,8 @@ struct SettingsView: View {
     
     // MARK: - PROPERTIES
     
-    var fruit: Fruit
-
+    @Environment(\.presentationMode) var presentationMode
+    
     // MARK: - BODY
     
     var body: some View {
@@ -22,6 +22,15 @@ struct SettingsView: View {
                     Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
                 }
                 .navigationBarTitle(Text("Settings"), displayMode: .large)
+                .navigationBarItems(
+                    trailing:
+                        Button(action: {
+                            presentationMode.wrappedValue.dismiss()
+                        }) {
+                            Image(systemName: "xmark")
+                        }
+                )
+                .padding()
             }
         }
     }
@@ -29,8 +38,7 @@ struct SettingsView: View {
 
 struct SettingsView_Previews: PreviewProvider {
     static var previews: some View {
-        SettingsView(fruit: fruitsData[9])
+        SettingsView()
             .preferredColorScheme(.dark)
-            .previewDevice("iPhone 11 Pro")
     }
 }
