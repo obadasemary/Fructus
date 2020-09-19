@@ -22,5 +22,12 @@
 <img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_3.png" alt="HTML5 Icon">
 <img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_4.png" alt="HTML5 Icon">
 <img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_5.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_6.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_7.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_8.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_9.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_10.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_11.png" alt="HTML5 Icon">
+<img src="https://github.com/obadasemary/Fructus/blob/main/Screenshots/Fruits_iPad_12.png" alt="HTML5 Icon">
 
 
